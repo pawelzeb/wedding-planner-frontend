@@ -2,7 +2,7 @@ module.exports = {
   title: 'Wedding Planner - Dokumentacja',
   tagline: 'Twoje wsparcie w organizacji idealnego wesela',
   url: 'https://pawelzeb.github.io', // Twój GitHub Pages base URL
-  baseUrl: '/wedding-planner-frontend/my-docs/', // Ścieżka folderu na GitHub Pages
+  baseUrl: '/wedding-planner-frontend/', // Ścieżka folderu na GitHub Pages
   trailingSlash: true, // Dodaje "/" na końcu linków
   onBrokenLinks: 'warn', // Ostrzeżenie dla niedziałających linków
   onBrokenMarkdownLinks: 'warn',
