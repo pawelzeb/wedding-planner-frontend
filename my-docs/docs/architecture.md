@@ -1,8 +1,14 @@
 # Architektura Systemu
 
-## Warstwy
-1. **Frontend**: Vue.js
-2. **Backend**: Laravel
-3. **Baza Danych**: MySQL
-4. **Cache**: Redis
-5. **Proxy**: Traefik
+## Backend
+- Framework: Laravel.
+- Baza danych: MySQL.
+- Cache: Redis.
+
+## Frontend
+- Framework: Vue.js.
+- Stylizacja: Tailwind CSS.
+
+## Infrastruktura
+- Konteneryzacja: Docker.
+- Reverse Proxy: Traefik.

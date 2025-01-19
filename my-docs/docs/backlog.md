@@ -1,18 +1,18 @@
-# Backlog Funkcjonalnoœci
+# Backlog FunkcjonalnoÅ›ci
 
 ## 1. Logowanie i Rejestracja
 - Rejestracja przez e-mail, Facebook, Google.
-- Uwierzytelnianie dwusk³adnikowe (2FA).
-- Resetowanie has³a.
+- Uwierzytelnianie dwuskÅ‚adnikowe (2FA).
+- Resetowanie hasÅ‚a.
 
-## 2. Zarz¹dzanie Œlubem
-- Lista goœci, zadañ, preferencji ¿ywieniowych.
+## 2. ZarzÄ…dzanie Åšlubem
+- Lista goÅ›ci, zadaÅ„, preferencji Å¼ywieniowych.
 - Landing page wesela.
-- Kalkulator kosztów.
+- Kalkulator kosztÃ³w.
 
 ## 3. Frontend
 - Tryb jasny/ciemny.
-- Prze³¹cznik jêzyka (PL/EN).
+- PrzeÅ‚Ä…cznik jÄ™zyka (PL/EN).
 
 ## 4. Technologia
 - Docker, Redis, Laravel, Vue.js.
