@@ -15,4 +15,4 @@
 - Przełącznik języka (PL/EN).
 
 ## 4. Technologia
-- Docker, Redis, Laravel, Vue.js, Axios.
+- Docker, Redis, Laravel, Vue.js, Axios . 
