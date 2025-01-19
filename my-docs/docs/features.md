@@ -8,7 +8,7 @@
 - Uwierzytelnianie dwuskładnikowe (2FA).
 - Funkcja resetowania hasła.
 
-![Logowanie](/static/img/docusaurus-social-card.jpg)
+
 ![Rejestracja](/static/img/docusaurus-social-card2.jpg)
 
 ### Tworzenie wesela
