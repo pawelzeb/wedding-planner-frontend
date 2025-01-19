@@ -8,13 +8,12 @@
 - Uwierzytelnianie dwuskładnikowe (2FA).
 - Funkcja resetowania hasła.
 
-
-![Rejestracja](/img/docusaurus-social-card2.jpg)
+![Logowanie](/static/img/docusaurus-social-card.jpg)
 
 ### Tworzenie wesela
 - Tworzenie wydarzenia weselnego jako głównej bazy organizacyjnej.
 
-![Rejestracja](/img/docusaurus-social-card3.jpg)
+![Rejestracja](/static/img/docusaurus-social-card3.jpg)
 
 ### Lista gości
 - Możliwość tworzenia listy gości z przypisaniem statusów:
