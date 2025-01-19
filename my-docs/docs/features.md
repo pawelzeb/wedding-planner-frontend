@@ -14,7 +14,7 @@
 ### Tworzenie wesela
 - Tworzenie wydarzenia weselnego jako głównej bazy organizacyjnej.
 
-![Rejestracja](/img/docusaurus-social-card3.jpg)
+![Rejestracja](/img/docusaurus-social-card.jpg)
 
 ### Lista gości
 - Możliwość tworzenia listy gości z przypisaniem statusów:
