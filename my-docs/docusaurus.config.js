@@ -1,42 +1,28 @@
 module.exports = {
-  title: 'Planer Ślubu - Dokumentacja',
+  title: 'Wedding Planner - Dokumentacja',
   tagline: 'Twoje wsparcie w organizacji idealnego wesela',
-  url: 'https://twoja-domena.com', // Zmień na swoją domenę
-  baseUrl: '/',
+  url: 'https://pawelzeb.github.io', // Twój GitHub Pages base URL
+  baseUrl: '/wedding-planner-frontend/my-docs/', // Ścieżka folderu na GitHub Pages
+  trailingSlash: true, // Dodaje "/" na końcu linków
+  onBrokenLinks: 'warn', // Ostrzeżenie dla niedziałających linków
+  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'sam21401', // GitHub org/user name
-  projectName: 'Wedding-Planner', // repo name
+  organizationName: 'pawelzeb', // Nazwa Twojego użytkownika GitHub
+  projectName: 'wedding-planner-frontend', // Nazwa repozytorium
   i18n: {
-    defaultLocale: 'pl', // Domyślny język
-    locales: ['pl'], // Obsługiwane języki
-    localeConfigs: {
-      pl: {
-        label: 'Polski', // Wyświetlana nazwa języka
-        direction: 'ltr', // Kierunek tekstu (lewo do prawa)
-      },
-    },
+    defaultLocale: 'pl',
+    locales: ['pl'],
   },
   themeConfig: {
     navbar: {
-      title: 'Planer Ślubu',
+      title: 'Wedding Planner',
       logo: {
-        alt: 'Logo Planera Ślubu',
-        src: 'img/logo.png', // Dodaj logo do folderu static/img
+        alt: 'Logo',
+        src: 'img/logo.png',
       },
       items: [
         { to: '/docs/intro', label: 'Dokumentacja', position: 'left' },
-        { to: '/docs/backlog', label: 'Backlog', position: 'left' },
-        { to: '/docs/features', label: 'Funkcjonalności', position: 'left' },
-        {
-          href: 'https://github.com/sam21401/Wedding-Planner-Frontend',
-          label: 'Frontend (GitHub)',
-          position: 'right',
-        },
-        {
-          href: 'https://github.com/sam21401/Wedding-Planner',
-          label: 'Backend (GitHub)',
-          position: 'right',
-        },
+        { href: 'https://github.com/pawelzeb/wedding-planner-frontend', label: 'GitHub', position: 'right' },
       ],
     },
     footer: {
@@ -46,23 +32,17 @@ module.exports = {
           title: 'Dokumentacja',
           items: [
             { label: 'Wprowadzenie', to: '/docs/intro' },
-            { label: 'Backlog', to: '/docs/backlog' },
-            { label: 'Architektura', to: '/docs/architecture' },
           ],
         },
         {
           title: 'Społeczność',
           items: [
-            { label: 'Discord', href: 'https://discord.gg/NxjzYFAh' },
-            { label: 'GitHub', href: 'https://github.com/sam21401/Wedding-Planner' },
+            { label: 'GitHub', href: 'https://github.com/pawelzeb/wedding-planner-frontend' },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Planer Ślubu.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Wedding Planner.`,
     },
-    metadata: [
-      { name: 'charset', content: 'UTF-8' }, // Ustawienie UTF-8 w metadanych
-    ],
   },
   presets: [
     [
@@ -70,11 +50,11 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/sam21401/Wedding-Planner/edit/main/docs/',
+          editUrl: 'https://github.com/pawelzeb/wedding-planner-frontend/edit/main/my-docs/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/sam21401/Wedding-Planner/edit/main/blog/',
+          editUrl: 'https://github.com/pawelzeb/wedding-planner-frontend/edit/main/my-docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
