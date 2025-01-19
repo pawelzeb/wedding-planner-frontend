@@ -9,7 +9,7 @@
 - Funkcja resetowania hasła.
 
 ![Logowanie](/img/docusaurus-social-card.jpg)
-![Rejestracja](/img/docusaurus-social-card2.jpg)
+![Rejestracja](/img/docusaurus-social-card.jpg)
 
 ### Tworzenie wesela
 - Tworzenie wydarzenia weselnego jako głównej bazy organizacyjnej.
