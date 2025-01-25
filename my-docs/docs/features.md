@@ -5,10 +5,9 @@
 ### Logowanie i Rejestracja
 - Możliwość rejestracji przez e-mail, Facebook, Google.
 - Weryfikacja konta przez e-mail.
-- Uwierzytelnianie dwuskładnikowe (2FA).
 - Funkcja resetowania hasła.
 
-![Logowanie]/img/docusaurus-social-card.jpg)
+
 
 ### Tworzenie wesela
 - Tworzenie wydarzenia weselnego jako głównej bazy organizacyjnej.
@@ -59,15 +58,8 @@
 ### Interfejs użytkownika
 #### Obecne funkcjonalności
 - **Zwiększ rozmiar tekstu**: Możliwość zwiększania tekstu obok opcji zmniejszania.
-- **Zmienny rozmiar interfejsu**: Opcje powiększania i zmniejszania całego interfejsu.
-- **Czcionki czytelne dla dyslektyków**: Przełącznik umożliwiający wybór czcionek takich jak OpenDyslexic.
-- **Przewodnik audio**: Narrator czytający treści interfejsu.
-- **Pauza animacji**: Wyłączanie animacji i efektów przejścia dla osób wrażliwych na ruch.
 - **Tryb nocny**: Rozbudowany tryb ciemny z możliwością regulacji jasności i tonacji.
 - **Konfiguracja kontrastów**: Ustawienia poziomu kontrastu (więcej opcji niż tylko "wysoki kontrast").
-- **Zapisywanie ustawień**: Funkcja zapisywania preferencji w przeglądarce użytkownika.
-- **Przewodnik wizualny**: Instrukcja wyjaśniająca działanie opcji dostępności.
-- Przełącznik języka (PL/EN).
 ---
 
 ## Technologia

@@ -14,6 +14,8 @@ module.exports = {
         'deployment',
         'security',
         'testing',
+		'user_role',
+		'estimate',
       ],
     },
   ],

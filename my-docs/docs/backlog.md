@@ -8,11 +8,14 @@
 ## 2. Zarządzanie Ślubem
 - Lista gości, zadań, preferencji żywieniowych.
 - Landing page wesela.
-- Kalkulator kosztów.
 
 ## 3. Frontend
+Dostępność cyfrowa:
+- Możliwość zmiany rozmiaru czcionki.
 - Tryb jasny/ciemny.
-- Przełącznik języka (PL/EN).
+- Klawiaturowa nawigacja po interfejsie.
+- Unikanie migotania elementów i dynamicznych animacji.
+
 
 ## 4. Technologia
 - Docker, Redis, Laravel, Vue.js, Axios . 
