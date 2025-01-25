@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![Projekt](/img/doc.jpg)
 
-##Wprowadzenie do zarządzania projektami deweloperskimi
+**Wprowadzenie do zarządzania projektami deweloperskimi
 
 ### Grupa projektowa:
 - Paweł Żebrowski
