@@ -1,34 +1,34 @@
-# Definicja zadaÒ i ich oceny
+# Definicja zada≈Ñ i ich oceny
 
 tasks := \
-    "Konteneryzacja úrodowiska"           4 6 4 6 4.75 \
+    "Konteneryzacja ≈õrodowiska"           4 6 4 6 4.75 \
     "Logowanie"                           5 5 6 4 5 \
-    "Uwierzytelnianie dwusk≥adnikowe (2FA)" 5 6 4 6 5.25 \
+    "Uwierzytelnianie dwusk≈Çadnikowe (2FA)" 5 6 4 6 5.25 \
     "Weryfikacja e-maila"                 4 3 4 5 4 \
     "Rejestracja przez Facebook"          3 4 3 4 3.5 \
     "Rejestracja przez Google"            3 4 3 4 3.5 \
     "Rejestracja przez e-mail"            3 3 4 4 3.5 \
-    "Resetowanie has≥a"                   2 3 3 4 3 \
-    "Tworzenie i edytowanie úlubu"        10 9 10 11 10.5 \
-    "Lista goúci"                         3 3 3 4 3.25 \
-    "Lista zadaÒ"                         3 3 3 4 3.25 \
-    "Status i odpowiedü goúci"            3 3 3 4 3.25 \
+    "Resetowanie has≈Ça"                   2 3 3 4 3 \
+    "Tworzenie i edytowanie ≈õlubu"        10 9 10 11 10.5 \
+    "Lista go≈õci"                         3 3 3 4 3.25 \
+    "Lista zada≈Ñ"                         3 3 3 4 3.25 \
+    "Status i odpowied≈∫ go≈õci"            3 3 3 4 3.25 \
     "Eksport danych"                      3 3 3 4 3.25 \
     "Zaproszenie e-mailowe"               5 5 4 6 5 \
-    "Lista preferencji øywieniowych"      3 3 3 4 3.25 \
-    "Kalkulator kosztÛw"                  3 3 3 4 3.25 \
-    "Mapa i wskazÛwki dojazdu"            4 3 3 4 3.5 \
+    "Lista preferencji ≈ºywieniowych"      3 3 3 4 3.25 \
+    "Kalkulator koszt√≥w"                  3 3 3 4 3.25 \
+    "Mapa i wskaz√≥wki dojazdu"            4 3 3 4 3.5 \
     "Landing page"                        4 5 4 5 4.5 \
-    "Informacje o úlubie + aktualizacje"  4 5 4 5 4.5 \
-    "Lista prezentÛw + edycja"            3 3 3 4 3.25 \
+    "Informacje o ≈õlubie + aktualizacje"  4 5 4 5 4.5 \
+    "Lista prezent√≥w + edycja"            3 3 3 4 3.25 \
     "Role rodzinne"                       3 3 3 4 3.25 \
-    "Zapraszanie innych uøytkownikÛw do úlubu" 4 5 4 5 4.5 \
-    "Obs≥uga kilku jÍzykÛw"               3 3 4 5 3.75 \
+    "Zapraszanie innych u≈ºytkownik√≥w do ≈õlubu" 4 5 4 5 4.5 \
+    "Obs≈Çuga kilku jƒôzyk√≥w"               3 3 4 5 3.75 \
     "Frontend"                            4 3 4 5 4 \
     "Formularz rejestracyjny"             3 3 3 5 3.5 \
-    "Edycja miejsc goúci"                 3 3 3 5 3.5 \
+    "Edycja miejsc go≈õci"                 3 3 3 5 3.5 \
     "Tryb jasny/ciemny"                   3 3 3 4 3.25 \
-    "Wdroøenie"                           3 3 4 5 3.75
+    "Wdro≈ºenie"                           3 3 4 5 3.75
 
 # Podsumowanie ocen
 samuel := 116
@@ -39,7 +39,7 @@ srednia := 125
 
 # Wypisz wyniki
 all:
-	@echo "Podsumowanie zadaÒ:"
+	@echo "Podsumowanie zada≈Ñ:"
 	@printf "%-40s %-10s %-10s %-10s %-10s %-10s\n" "Task" "Samuel" "Adam" "Pawel" "Jan" "Srednia"
 	@echo "----------------------------------------------------------------------"
 	@echo $(tasks) | xargs -n6 printf "%-40s %-10s %-10s %-10s %-10s %-10s\n"
