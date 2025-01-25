@@ -9,7 +9,7 @@ const sidebars = {
     { type: 'doc', id: 'architecture', label: '3. Architektura' },
     { type: 'doc', id: 'installation', label: '2. Instalacja' },
     { type: 'doc', id: 'intro', label: '1. Wprowadzenie' },
-    { type: 'doc', id: 'intro', label: '0. Strona tytułowa' },
+    { type: 'doc', id: 'front page', label: '0. Strona tytułowa' },
     
   ],
 };
