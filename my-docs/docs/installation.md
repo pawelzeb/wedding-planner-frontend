@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Instrukcja Instalacji Aplikacji Planner Ślubu – Aplikacji Webowej
+# Instrukcja Instalacji Aplikacji Planner Ślubu
 
 Aby zainstalować i uruchomić projekt Planner Ślubu, należy przejść przez kilka kroków obejmujących instalację niezbędnych narzędzi i zależności. Poniżej znajduje się szczegółowy przewodnik krok po kroku, który pomoże Ci skonfigurować środowisko zarówno na systemach Linux/Unix (np. Arch Linux, Arch WSL), jak i Windows.
 
