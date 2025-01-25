@@ -15,3 +15,4 @@ sidebar_position: 1
 - Adam Kasprzyk
 
 Prowadzący mgr. Inż. Marcin Tracz
+
