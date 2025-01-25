@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Instrukcja Instalacji Aplikacji Planner Ślubu – Aplikacji Webowej
