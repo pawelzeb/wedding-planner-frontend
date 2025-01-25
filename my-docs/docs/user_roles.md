@@ -4,18 +4,36 @@ sidebar_position: 5
 
 # Opis Poszczególnych Ról w Grupie
 
-**Backend Developer**
-Tworzenie i rozwój API aplikacji w Laravel.
-Projektowanie bazy danych (MySQL).
+**Samuel Leończyk
+Rola: Backend Developer i Leader of the Group**
+Koordynacja pracy zespołu i rozdzielanie zadań w projekcie.
+Implementacja systemu mailingu.
+Logowanie przy użyciu kont społecznościowych (social login).
+Opracowanie i wdrożenie opisu ról w projekcie.
 Integracja aplikacji z Redis i Docker.
-Implementacja logiki biznesowej oraz obsługa uwierzytelniania dwuskładnikowego (2FA).
+Wsparcie zespołu w rozwiązywaniu problemów technicznych oraz zapewnianie ciągłości prac.
 
-**Frontend Developer**
+
+**Adam Kasprzyk
+Rola: Backend Developer**
+Tworzenie i zarządzanie CRUD-ami dla kluczowych modułów aplikacji.
+Implementacja systemu logowania i autoryzacji użytkowników.
+Zarządzanie routami w aplikacji, w tym strukturą URL i middleware.
+Backend Developer
+Tworzenie i rozwój API aplikacji z wykorzystaniem Laravel.
+Integracja aplikacji z Redis i Docker.
+
+**Paweł Żebrowski
+Frontend Developer**
 Implementacja interfejsu użytkownika w Vue.js.
-Stylizacja z wykorzystaniem Bootstrap, CSS.
-Tworzenie interaktywności, w tym przełączników języków i trybu jasny/ciemny.
+Stylizacja aplikacji z wykorzystaniem Bootstrap i CSS.
+Tworzenie funkcji interaktywnych, takich jak przełączniki językowe oraz tryby jasny/ciemny.
+Integracja aplikacji z Redis i Docker.
 
-**Tester**
-Testowanie funkcjonalne aplikacji.
-Weryfikacja działania procesów takich jak rejestracja, logowanie, eksport danych.
-Przeprowadzanie testów wydajnościowych.
+**Jan Łabaj
+Tester**
+Przeprowadzanie testów funkcjonalnych aplikacji, w tym rejestracji, logowania oraz eksportu danych.
+Weryfikacja poprawności działania procesów biznesowych.
+Przeprowadzanie testów wydajnościowych, zapewniających stabilność aplikacji.
+Integracja aplikacji z Redis i Docker.**
+
