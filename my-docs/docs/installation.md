@@ -151,7 +151,9 @@ sudo pacman -S git
 ```
 **Klonowanie Repozytoriów:**
 ```bash
+git clone https://github.com/sam21401/Wedding-Planner-Frontend
 git clone https://github.com/sam21401/Wedding-Planner
+git clone https://github.com/sam21401/Wedding-Proxy
 ```
 
 ## 9. Instalacja Zależności Projektu
