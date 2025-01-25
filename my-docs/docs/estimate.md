@@ -1,1 +1,1 @@
-![Estymacja](/img/docusaurus-social-card3.jpg)
+![Estymacja](/img/esti.jpg)
