@@ -1,6 +1,6 @@
 # Wprowadzenie
 
-**Planer Ślubu** to aplikacja webowa ułatwiająca organizację wesela. Użytkownicy mogą zarządzać listą gości, zadaniami i tworzyć spersonalizowaną stronę wesela.
+**Planer Ślubu** to aplikacjaa webowa ułatwiająca organizację wesela. Użytkownicy mogą zarządzać listą gości, zadaniami i tworzyć spersonalizowaną stronę wesela.
 
 ## Kluczowe Funkcjonalności
 - Zarządzanie gośćmi (lista, statusy, eksport CSV).
