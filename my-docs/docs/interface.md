@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Interfejs aplikacji
 ![Estymacja](/img/1.jpg)
 ![Estymacja](/img/2.jpg)

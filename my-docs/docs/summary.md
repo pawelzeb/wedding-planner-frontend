@@ -1,3 +1,6 @@
+---
+sidebar_position: 9
+---
 # Podsumowanie, Wnioski
 
 Praca nad "Planerem Ślubu" była dużym wyzwaniem, ale również cennym doświadczeniem dla całego zespołu. W trakcie projektu zdobyliśmy umiejętności w zakresie konteneryzacji aplikacji, mimo początkowych trudności związanych z konfiguracją Dockera. Nauczyliśmy się również lepiej rozdzielać zadania między frontend i backend, co pozwoliło na wyraźniejszy podział odpowiedzialności.

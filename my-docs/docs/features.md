@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Funkcjonalności Planera Ślubu
 
 ## Użytkownik (Państwo młodzi i współorganizatorzy)

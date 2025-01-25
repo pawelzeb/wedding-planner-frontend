@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Backlog Funkcjonalności
 
 ## 1. Logowanie i Rejestracja
