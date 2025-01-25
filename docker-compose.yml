@@ -1,5 +1,0 @@
-install:
-    docker-compose up -d --build
-
-run:
-    docker-compose exec -t frontend npm run dev
