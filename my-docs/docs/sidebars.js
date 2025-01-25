@@ -12,10 +12,11 @@ module.exports = {
         'architecture',
         'installation',
         'deployment',
+				'user_role',
+		'estimate',
         'security',
         'testing',
-		'user_role',
-		'estimate',
+
       ],
     },
   ],
