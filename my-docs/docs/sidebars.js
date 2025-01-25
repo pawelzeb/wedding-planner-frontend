@@ -1,6 +1,7 @@
 const sidebars = {
   tutorialSidebar: [
-    { type: 'doc', id: 'summary', label: '10. Podsumowanie' },
+    { type: 'doc', id: 'summary', label: '11. Podsumowanie' },
+    { type: 'doc', id: 'sprints', label: '10. Sprinty' },
     { type: 'doc', id: 'backloge', label: '9. Backlog' },
     { type: 'doc', id: 'estimate', label: '8. Estymacja' },
     { type: 'doc', id: 'interface', label: '7. Interfejs' },

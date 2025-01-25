@@ -16,3 +16,5 @@ sidebar_position: 4
 ## Infrastruktura
 - Konteneryzacja: Docker.
 - Reverse Proxy: Traefik.
+- Serwer WWW: Nginx.
+- Testowanie e-maili: Mailpit.
