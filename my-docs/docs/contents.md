@@ -1,6 +1,8 @@
-# Spis treści
+---
+sidebar_position: 9
+---
 
-## Spis treści
+# Spis treści
 - [Wprowadzenie](intro.md)
 - [Instrukcja Instalacji Aplikacji Planner Ślubu](installation.md)
 - [Architektura Systemu](architecture.md)
