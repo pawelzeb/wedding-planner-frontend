@@ -1,17 +1,17 @@
-# Opis Poszczeg髄nych R髄 w Grupie
+# Opis Poszczeg贸lnych R贸l w Grupie
 
 **Backend Developer**
-Tworzenie i rozw骿 API aplikacji w Laravel.
+Tworzenie i rozw贸j API aplikacji w Laravel.
 Projektowanie bazy danych (MySQL).
 Integracja aplikacji z Redis i Docker.
-Implementacja logiki biznesowej oraz obs硊ga uwierzytelniania dwusk砤dnikowego (2FA).
+Implementacja logiki biznesowej oraz obs艂uga uwierzytelniania dwusk艂adnikowego (2FA).
 
 **Frontend Developer**
-Implementacja interfejsu u縴tkownika w Vue.js.
+Implementacja interfejsu u偶ytkownika w Vue.js.
 Stylizacja z wykorzystaniem Bootstrap, CSS.
-Tworzenie interaktywno渃i, w tym prze彻cznik體 j陑yk體 i trybu jasny/ciemny.
+Tworzenie interaktywno艣ci, w tym prze艂膮cznik贸w j臋zyk贸w i trybu jasny/ciemny.
 
 **Tester**
 Testowanie funkcjonalne aplikacji.
-Weryfikacja dzia砤nia proces體 takich jak rejestracja, logowanie, eksport danych.
-Przeprowadzanie test體 wydajno渃iowych.
+Weryfikacja dzia艂ania proces贸w takich jak rejestracja, logowanie, eksport danych.
+Przeprowadzanie test贸w wydajno艣ciowych.
