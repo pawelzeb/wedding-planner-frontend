@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 ---
-# Interfejs aplikacji
+# Sprinty
 1. Sprint
 Czas sprintów: 2 tygodnie
 1. Sprint 1
