@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docs=self.webpackChunkmy_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/wedding-planner-frontend/blog","blogTitle":"Blog","authorsListPath":"/wedding-planner-frontend/blog/authors"}')}}]);
