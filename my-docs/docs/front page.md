@@ -1,8 +1,8 @@
-# 
-Dokumentacja techniczna apikacji: Planner Ślubu
 ---
 sidebar_position: 1
 ---
+
+# Dokumentacja techniczna apikacji: Planner Ślubu
 
 ![Projekt](/img/doc.jpg)
 
