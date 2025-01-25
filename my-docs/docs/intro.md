@@ -12,3 +12,9 @@ sidebar_position: 1
 - Landing page wesela (mapa, preferencje prezentowe, aktualizacje).
 
 Aplikacja oferuje zaawansowane funkcje takie jak zarządzanie statusem gości, przypisywanie zadań różnym osobom oraz publikowanie spersonalizowanego landing page’u z dodatkowymi informacjami dla gości.
+
+## Grupa projektowa:
+Paweł Żebrowski
+Samuel Leończyk
+Jan Łabaj
+Adam Kasprzyk
