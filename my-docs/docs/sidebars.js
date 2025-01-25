@@ -4,17 +4,17 @@ module.exports = {
       type: 'category',
       label: 'Planer Ślubu', // Tytuł główny kategorii
       items: [
+        'backloge', // Przeniesiono na pierwsze miejsce
+        'estimate', // Przeniesiono na drugie miejsce
         {
           type: 'category',
           label: 'Backlog Funkcjonalności', // Polskie znaki w label
-          items: ['backlog', 'features'],
+          items: ['features'], // Zawiera tylko 'features'
         },
+        'user_role',
         'architecture',
         'installation',
-        'deployment',
-        'user_role',
-        'estimate',
-        'intro',
+        'intro', // Dodano 'intro' na końcu
       ],
     },
   ],
