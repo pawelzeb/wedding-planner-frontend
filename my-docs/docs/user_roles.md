@@ -14,8 +14,8 @@ Integracja aplikacji z Redis i Docker.
 Wsparcie zespołu w rozwiązywaniu problemów technicznych oraz zapewnianie ciągłości prac.
 
 
-**Adam Kasprzyk
-- Rola: Backend Developer**
+**Adam Kasprzyk**
+- Rola: Backend Developer
 Tworzenie i zarządzanie CRUD-ami dla kluczowych modułów aplikacji.
 Implementacja systemu logowania i autoryzacji użytkowników.
 Zarządzanie routami w aplikacji, w tym strukturą URL i middleware.
@@ -23,15 +23,15 @@ Backend Developer
 Tworzenie i rozwój API aplikacji z wykorzystaniem Laravel.
 Integracja aplikacji z Redis i Docker.
 
-**Paweł Żebrowski
-- Rola: Frontend Developer**
+**Paweł Żebrowski**
+- Rola: Frontend Developer
 Implementacja interfejsu użytkownika w Vue.js.
 Stylizacja aplikacji z wykorzystaniem Bootstrap i CSS.
 Tworzenie funkcji interaktywnych, takich jak przełączniki językowe oraz tryby jasny/ciemny.
 Integracja aplikacji z Redis i Docker.
 
-**Jan Łabaj
-- Rola: Tester**
+**Jan Łabaj**
+- Rola: Tester
 Przeprowadzanie testów funkcjonalnych aplikacji, w tym rejestracji, logowania oraz eksportu danych.
 Weryfikacja poprawności działania procesów biznesowych.
 Przeprowadzanie testów wydajnościowych, zapewniających stabilność aplikacji.
