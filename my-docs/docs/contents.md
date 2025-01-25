@@ -1,4 +1,4 @@
-# Dokumentacja techniczna aplikacji: Planner Ślubu
+# Spis treści
 
 ## Spis treści
 - [Wprowadzenie](intro.md)
