@@ -6,7 +6,6 @@ sidebar_position: 10
 
 ## 1. Logowanie i Rejestracja
 - Rejestracja przez e-mail, Facebook, Google.
-- Uwierzytelnianie dwuskładnikowe (2FA).
 - Resetowanie hasła.
 
 ## 2. Zarządzanie Ślubem

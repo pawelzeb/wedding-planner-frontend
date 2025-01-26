@@ -27,7 +27,7 @@ Integracja aplikacji z Redis i Docker.
 - Rola: Frontend Developer
 Implementacja interfejsu użytkownika w Vue.js.
 Stylizacja aplikacji z wykorzystaniem Bootstrap i CSS.
-Tworzenie funkcji interaktywnych, takich jak przełączniki językowe oraz tryby jasny/ciemny.
+Tworzenie funkcji interaktywnych oraz tryby jasny/ciemny.
 Integracja aplikacji z Redis i Docker.
 
 **Jan Łabaj**
